@@ -1,2 +1,2 @@
 # Hazel
-Hazel GE::Cherno
+Hazel Game Engine::Cherno
