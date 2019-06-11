@@ -8,7 +8,7 @@
 #ifndef Application_hpp
 #define Application_hpp
 #pragma once
-
+#include "../Hazel.h"
 #include <stdio.h>
 
 #endif /* Application_hpp */
