@@ -24,4 +24,7 @@ namespace Hazel {
     };
     
     void Application::Run();
+    
+    //To be defined in client
+    Application* CreateApplication();
 }

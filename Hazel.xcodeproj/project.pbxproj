@@ -15,6 +15,7 @@
 		97F3C64822B05131008AE65D /* Hazel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hazel.h; sourceTree = "<group>"; };
 		97F3C64A22B052A8008AE65D /* SandboxApp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SandboxApp.cpp; sourceTree = "<group>"; };
 		97F3C64B22B052A8008AE65D /* SandboxApp.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SandboxApp.hpp; sourceTree = "<group>"; };
+		97F3C64E22B05582008AE65D /* EntryPoint.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EntryPoint.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -51,6 +52,7 @@
 				97F3C64522B036F1008AE65D /* Application.hpp */,
 				97F3C64422B036F1008AE65D /* Application.cpp */,
 				97F3C64722B04CF4008AE65D /* Core.h */,
+				97F3C64E22B05582008AE65D /* EntryPoint.h */,
 			);
 			path = Hazel;
 			sourceTree = "<group>";
