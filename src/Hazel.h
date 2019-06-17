@@ -10,7 +10,7 @@
 #pragma once
 //#include <stdio.h>
 #include "Hazel/Application.h"
-
+#include "Log.h"
 #endif /* Hazel_h */
 
 //------Entry Point------
